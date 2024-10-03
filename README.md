@@ -18,7 +18,7 @@
 
 ## PowerPoint 발표 자료
 
-[발표 자료 다운로드](https://github.com/사용자이름/리포지토리이름/raw/main/반려동물%20건강관리%20어플.pptx)
+[발표 자료 보기](https://docs.google.com/presentation/d/1FWYdmnUd8vpeR73PT3NX5SLGOljDQIDk/edit#slide=id.p1)
 
 ## 실행 방법
 

@@ -33,3 +33,5 @@
 ## 라이센스
 
 이 프로젝트는 MIT 라이센스를 따릅니다.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)

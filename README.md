@@ -26,12 +26,6 @@
 2. **사용자 등록**: 앱을 실행한 후 사용자 정보를 입력하여 등록합니다.
 3. **기능 사용**: 제공되는 다양한 기능을 활용하여 반려동물의 건강 관리를 시작하세요.
 
-## 기여하기
 
-기여를 원하시면, 이 리포지토리를 포크(fork)한 후 Pull Request를 제출해 주세요.
-
-## 라이센스
-
-이 프로젝트는 MIT 라이센스를 따릅니다.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gondra98)](https://github.com/anuraghazra/github-readme-stats)

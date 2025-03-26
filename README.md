@@ -25,7 +25,3 @@
 1. **앱 설치**: [앱 다운로드 링크]()
 2. **사용자 등록**: 앱을 실행한 후 사용자 정보를 입력하여 등록합니다.
 3. **기능 사용**: 제공되는 다양한 기능을 활용하여 반려동물의 건강 관리를 시작하세요.
-
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gondra98)](https://github.com/anuraghazra/github-readme-stats)

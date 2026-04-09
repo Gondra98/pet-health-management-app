@@ -1,0 +1,4 @@
+Dandruff_Scales_EpidermalCollarettes
+Nodules_Tumors
+Normal
+Pustules_Acne

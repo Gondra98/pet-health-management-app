@@ -1,0 +1,6 @@
+Conjunctivitis
+Entropion
+Glaucoma
+Nuclear_Sclerosis
+Ocular_Tumors
+Normal

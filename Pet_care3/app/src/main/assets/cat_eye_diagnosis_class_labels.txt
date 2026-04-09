@@ -1,6 +1,0 @@
-Blepharitis
-Conjunctivitis
-Corneal_Osseous
-Corneal_Ulcer
-Nonulcerative_Keratitis
-Normal

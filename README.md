@@ -20,8 +20,3 @@
 
 [발표 자료 보기](https://docs.google.com/presentation/d/1FWYdmnUd8vpeR73PT3NX5SLGOljDQIDk/edit#slide=id.p1)
 
-## 실행 방법
-
-1. **앱 설치**: [앱 다운로드 링크]()
-2. **사용자 등록**: 앱을 실행한 후 사용자 정보를 입력하여 등록합니다.
-3. **기능 사용**: 제공되는 다양한 기능을 활용하여 반려동물의 건강 관리를 시작하세요.
